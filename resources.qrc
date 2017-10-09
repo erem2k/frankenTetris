@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/UIBar.png</file>
+        <file>resources/highScores/mainBoard.png</file>
+        <file>resources/highScores/noscores.png</file>
+        <file>resources/mainMenu/mainMenu.png</file>
+        <file>resources/mainMenu/menuText.png</file>
+        <file>resources/mainMenu/selectPlay.png</file>
+        <file>resources/mainMenu/selectQuit.png</file>
+        <file>resources/mainMenu/selectScores.png</file>
+        <file>resources/quitMenu/noSelect.png</file>
+        <file>resources/quitMenu/quitMenu.png</file>
+        <file>resources/quitMenu/yesSelect.png</file>
+        <file>resources/background/backgroundCathedral.png</file>
+        <file>resources/background/backgroundClouds.png</file>
+        <file>resources/background/backgroundTitle.png</file>
+        <file>resources/playingField/playingField.png</file>
+        <file>resources/playingField/playStart.png</file>
+        <file>resources/pause/pauseBar.png</file>
+        <file>resources/gameover/gameover.png</file>
+    </qresource>
+    <qresource prefix="/animations">
+        <file>resources/loadingAnim.gif</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>resources/gameFont.otf</file>
+    </qresource>
+</RCC>
